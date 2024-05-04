@@ -1,23 +1,18 @@
-```bash
-                            _
-                          .' `'.__
-                         /      \ `'"-,
-        .-''''--...__..-/ .     |      \
-      .'               ; :'     '.  a   |
-     /                 | :.       \     =\
-    ;                   \':.      /  ,-.__;.-;`
-   /|     .              '--._   /-.7`._..-;`
-  ; |       '                |`-'      \  =|                https://www.savetheelephants.org/    
-  |/\        .   -' /     /  ;         |  =/
-  (( ;.       ,_  .:|     | /     /\   | =|         
-   ) / `\     | `""`;     / |    | /   / =/
-     | ::|    |      \    \ \    \ `--' =/
-    /  '/\    /       )    |/     `-...-`
-   /    | |  `\    /-'    /;
-   \  ,,/ |    \   |    .'  \
-   `""`   \  ---   ._.-'----'
-            `"""`
-
+```julia
+               _,.---.---.---.--.._ 
+           _.-' `--.`---.`---'-. _,`--.._
+          /`--._ .'.     `.     `,`-.`-._\
+         ||   \  `.`---.__`__..-`. ,'`-._/
+    _  ,`\ `-._\   \    `.    `_.-`-._,``-.
+ ,`   `-_ \/ `-.`--.\    _\_.-'\__.-`-.`-._`.
+(_.o> ,--. `._/'--.-`,--`  \_.-'       \`-._ \                  
+ `---'    `._ `---._/__,----`           `-. `-\                 https://saveturtles.org/
+           /_, ,  _..-'                    `-._\
+           \_, \/ ._(
+            \_, \/ ._\
+             `._,\/ ._\
+               `._// ./`-._
+                 `-._-_-_.-
 ```
 
 
@@ -29,6 +24,9 @@
 <a href="https://github.com/"><img alt="EMACS" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white"></a>
 <a href="https://github.com/"><img alt="REDIS" src="https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white"></a>
 <a href="https://github.com/"><img alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E.svg?&logo=sqlite&logoColor=white"></a>
+
+
+
 
 
 
